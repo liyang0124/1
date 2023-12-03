@@ -104,5 +104,5 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:liyang0124/liyang0124.github.io.git
-  branch: master
+  branch: main
 
